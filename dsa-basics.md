@@ -1,5 +1,6 @@
 # [Good to visit before starting DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
-This section contains resources for Data structures, algorithms and Problem solving.
+This section contains resources for Data structures, algorithms and Problem solving. Try to create your own schedule day wise and ina sequence so that it won't confuse the readers from where they should start and same for System design as well.,
+# [Use some links from here,](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)
 # DSA Resources
 Below is the sequence to learn DSA - just go through the conent of link. I would not sugeest to go on any particular link available on the below pages because it will put 
 you in a situation where you will think that from where should I start the learning of DSA.
