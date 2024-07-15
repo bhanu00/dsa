@@ -20,7 +20,7 @@ To continue on algorithms visit all links mentioned in below screnshot one by on
   - [Algorithms Complexity evaluation](https://suvankar.medium.com/algorithms-complexity-evaluation-d7478bc95b92)
 ### [Fundamentals of algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#introduction-to-algorithms)
 
-# [Problem Solving on Leetcode]
+# Problem Solving on Leetcode
 - [How to start Leedcode](https://www.youtube.com/watch?v=Nx4bvwU0DqE)
 
 # [Ashish Pratap Repo](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)
