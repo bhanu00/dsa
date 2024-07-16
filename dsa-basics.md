@@ -15,6 +15,7 @@ Below is the sequence to learn DSA - just go through the conent of link. I would
 ## [Introduction to Algorithms](https://www.geeksforgeeks.org/introduction-to-algorithms/?ref=roadmap)
 To continue on algorithms visit all links mentioned in below screnshot one by one on this Link
 - ### Complexity Evaluation
+  - [Time and Space Complexity - Strivers A2Z DSA Course](https://www.youtube.com/watch?v=FPu9Uld7W-E)
   - [Time Complexity of Algorithms](https://tekolio.com/time-complexity-of-algorithms-explained-with-examples/)
   - [Understanding Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
   - [Algorithms Complexity evaluation](https://suvankar.medium.com/algorithms-complexity-evaluation-d7478bc95b92)
@@ -22,5 +23,8 @@ To continue on algorithms visit all links mentioned in below screnshot one by on
 
 # Problem Solving on Leetcode
 - [How to start Leedcode](https://www.youtube.com/watch?v=Nx4bvwU0DqE)
+- [Common 450 problems](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/)
+- [strivers-a2z-dsa-course-sheet-2](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 # [Ashish Pratap Repo](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)
+# [Strivers-a2z-dsa-course-sheet-2](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
