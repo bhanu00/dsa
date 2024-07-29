@@ -1,9 +1,17 @@
-# 1. Good to visit before starting DSA
+# Good to visit before starting DSA
 - [How I mastered DSA by Ashish](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [Video - How I mastered DSA by Ashish](https://www.youtube.com/watch?v=F-ao3Q6I2Fc)
 
-# DSA Resources
-Below is the sequence to learn DSA - just go through the conent of link. I would not sugeest you to go on any further link available on the pages because it will put you in a situation where you will think that from where should I start the learning of DSA. I will provide all the links here.
+## Need to know in Any Programming language before DSA 
+If You are a C# developer then visit -[Learn C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) or You can learn your choice of programming language.
+- User Input/Output
+- Data types
+- Conditional Statements - If/Else, Switch
+- Array
+- String
+- Loops - For, While
+- Methods/Function, Parameter passing - By Value/By Reference
+- Complexity - Time & Space - Basic
 ## [What Should I Learn First: Data Structures or Algorithms?](https://www.geeksforgeeks.org/what-should-i-learn-first-data-structures-or-algorithms/)
 ## [Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)
 1. [Array]()
