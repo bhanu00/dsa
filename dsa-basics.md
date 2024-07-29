@@ -4,6 +4,7 @@
 
 ## Topics as a prerequisite before learning DSA 
 If You are a C# developer then visit -[Learn C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) or You can learn your choice of programming language.
+- Program Structure
 - User Input/Output
 - Data types
 - Conditional Statements - If/Else, Switch
