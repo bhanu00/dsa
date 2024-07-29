@@ -11,7 +11,7 @@ If You are a C# developer then visit -[Learn C#](https://learn.microsoft.com/en-
 - String
 - Loops - For, While
 - Methods/Function, Parameter passing - By Value/By Reference
-- Complexity - Time & Space - Basic
+- [Complexity - Time & Space - Basic](https://www.youtube.com/watch?v=FPu9Uld7W-E)
 ## [What Should I Learn First: Data Structures or Algorithms?](https://www.geeksforgeeks.org/what-should-i-learn-first-data-structures-or-algorithms/)
 ## [Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)
 1. [Array]()
