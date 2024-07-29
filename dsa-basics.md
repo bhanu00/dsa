@@ -2,7 +2,7 @@
 - [How I mastered DSA by Ashish](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [Video - How I mastered DSA by Ashish](https://www.youtube.com/watch?v=F-ao3Q6I2Fc)
 
-## Need to know in Any Programming language before DSA 
+## Topics as a prerequisite before learning DSA 
 If You are a C# developer then visit -[Learn C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) or You can learn your choice of programming language.
 - User Input/Output
 - Data types
