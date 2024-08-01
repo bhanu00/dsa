@@ -13,8 +13,10 @@ If You are a C# developer then visit -[Learn C#](https://learn.microsoft.com/en-
 - Loops - For, While
 - Methods/Function, Parameter passing - By Value/By Reference
 - [Complexity - Time & Space - Basic](https://www.youtube.com/watch?v=FPu9Uld7W-E)
-## [What Should I Learn First: Data Structures or Algorithms?](https://www.geeksforgeeks.org/what-should-i-learn-first-data-structures-or-algorithms/)
-## [Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)
+### [Data structures playlist by WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+Below schedule consists the link of youtube videos from above play list by William Fiset. I putting separate links because in future I can put other related links as well together.
+#### Data Structures
+1. [Data Structures, Why Data Structures, Abstract Data Types vs Data Structures](https://www.youtube.com/watch?v=2USMAwcRWHE&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=2)
 1. [Array]()
 2. [LinkedList]()
 3. [Queue]
