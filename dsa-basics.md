@@ -1,4 +1,4 @@
-# Good to visit before starting DSA
+## Good to visit before starting DSA
 - [How I mastered DSA by Ashish](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [Video - How I mastered DSA by Ashish](https://www.youtube.com/watch?v=F-ao3Q6I2Fc)
 
