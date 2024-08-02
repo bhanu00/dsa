@@ -15,8 +15,12 @@ If You are a C# developer then visit -[Learn C#](https://learn.microsoft.com/en-
 - [Complexity - Time & Space - Basic](https://www.youtube.com/watch?v=FPu9Uld7W-E)
 ### [Data structures playlist by WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 Below schedule consists the link of youtube videos from above play list by William Fiset. I putting separate links because in future I can put other related links as well together.
-#### Data Structures
+#### Data Structures & Algorithms
 1. [Data Structures, Why Data Structures, Abstract Data Types vs Data Structures](https://www.youtube.com/watch?v=2USMAwcRWHE&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=2)
+2. ### Complexity Evaluation
+  - [Time and Space Complexity - Strivers A2Z DSA Course](https://www.youtube.com/watch?v=FPu9Uld7W-E)
+  - [Understanding Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
+  - [Algorithms Complexity evaluation](https://suvankar.medium.com/algorithms-complexity-evaluation-d7478bc95b92)
 1. [Array]()
 2. [LinkedList]()
 3. [Queue]
@@ -25,11 +29,7 @@ Below schedule consists the link of youtube videos from above play list by Willi
     1. [Hash table vs Dictionary in C#](https://learn.microsoft.com/en-us/dotnet/standard/collections/hashtable-and-dictionary-collection-types)
 ## [Introduction to Algorithms](https://www.geeksforgeeks.org/introduction-to-algorithms/?ref=roadmap)
 To continue on algorithms visit all links mentioned in below screnshot one by one on this Link
-- ### Complexity Evaluation
-  - [Time and Space Complexity - Strivers A2Z DSA Course](https://www.youtube.com/watch?v=FPu9Uld7W-E)
-  - [Time Complexity of Algorithms](https://tekolio.com/time-complexity-of-algorithms-explained-with-examples/)
-  - [Understanding Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
-  - [Algorithms Complexity evaluation](https://suvankar.medium.com/algorithms-complexity-evaluation-d7478bc95b92)
+
 ### [Fundamentals of algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#introduction-to-algorithms)
 
 # Problem Solving on Leetcode
