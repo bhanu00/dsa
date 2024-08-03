@@ -16,7 +16,8 @@ If You are a C# developer then visit -[Learn C#](https://learn.microsoft.com/en-
 ### Data Structures & Algorithms
 Here, I am providing topic wise links to learn DSA. These links are taken from [playlist by William fiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu) and [Strivers A2Z DSA Course](https://www.youtube.com/@takeUforward/playlists) and others well.
 
-- [Data Structures, Why Data Structures, Abstract Data Types vs Data Structures](https://www.youtube.com/watch?v=2USMAwcRWHE&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=2)
+- #### What and Why DSA
+  - [Data Structures, Why Data Structures, Abstract Data Types vs Data Structures](https://www.youtube.com/watch?v=2USMAwcRWHE&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&index=2)
 - #### Complexity Evaluation
   - [Time and Space Complexity Basic - Strivers A2Z DSA Course](https://www.youtube.com/watch?v=FPu9Uld7W-E)
   - [Understanding Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
