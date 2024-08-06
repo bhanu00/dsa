@@ -1,3 +1,4 @@
+Provide links for DSA resoures day wise and provide some usage , for example in which scenarios you can use linkedList.
 ## DSA - Data Structures & Algorithms
 ### Good to visit before starting DSA
 - [How I mastered DSA by Ashish](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
