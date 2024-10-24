@@ -1,3 +1,4 @@
+# Factorial
 The factorial of a non-negative integer n, denoted as n!, is the product of all positive integers less than or equal to n. The factorial formula is given by:
 
 n! = n × (n - 1) × (n - 2) × ... × 3 × 2 × 1
